@@ -23,4 +23,14 @@ public class Actor extends Person
     public void printMe(){
         System.out.println("Print ME");
     }
+
+    int numberOfFilms;
+
+    public int getNumberOfFilms() {
+        return numberOfFilms;
+    }
+
+    public void setNumberOfFilms(int numberOfFilms) {
+        this.numberOfFilms = numberOfFilms;
+    }
 }
