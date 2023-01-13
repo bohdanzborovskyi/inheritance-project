@@ -14,6 +14,10 @@ public class Person
     {
         System.out.println("Person method");
     }
+
+    protected void justAMethod(){
+        System.out.println("Hello with new method!");
+    }
     public void setAge(int age) {
         this.age = age;
     }
@@ -30,7 +34,4 @@ public class Person
         return name;
     }
 
-    protected void justAMethod(){
-        System.out.println("Hello with new method!");
-    }
 }
