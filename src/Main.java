@@ -19,6 +19,7 @@ public class Main
         actor.setNumberOfFilms(22);
         persons.add(actor);
         persons.add(person);
+        actor.setYear(2002);
         sortedPerson(persons).forEach(System.out::println);
     }
 
