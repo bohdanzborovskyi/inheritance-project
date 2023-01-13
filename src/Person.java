@@ -13,6 +13,7 @@ public class Person
     String ddd;
     boolean high;
     int i;
+    int feature1;
 
 
 
