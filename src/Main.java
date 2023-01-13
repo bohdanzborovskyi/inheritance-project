@@ -9,12 +9,14 @@ public class Main
     {
         Actor person = new Actor();
         person.setAge(12);
+        person.setNumberOfFilms(2);
         Person person1 = new Actor();
         person1.setAge(22);
         ArrayList<Person> persons = new ArrayList<>();
         persons.add(person1);
         Actor actor = new Actor();
         actor.setAge(33);
+        actor.setNumberOfFilms(22);
         persons.add(actor);
         persons.add(person);
         sortedPerson(persons).forEach(System.out::println);
