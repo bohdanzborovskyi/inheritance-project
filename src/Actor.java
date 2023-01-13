@@ -4,9 +4,9 @@ public class Actor extends Person
     {
         System.out.println("Actor constructor");
     }
-//    public void personmethod()
-//    {
-//        super.personmethod();
-//        System.out.println("actor methid");
-//    }
+    public void personmethod()
+    {
+        super.personmethod();
+        System.out.println("actor methid");
+    }
 }
