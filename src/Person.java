@@ -8,6 +8,7 @@ public class Person
     boolean player;
     boolean patriot;
     String birthPlace;
+    boolean flyer;
 
 
     Person()
