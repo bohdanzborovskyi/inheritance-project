@@ -9,4 +9,8 @@ public class Actor extends Person
         super.personmethod();
         System.out.println("actor methid");
     }
+
+    public void printMe(){
+        System.out.println("Print ME");
+    }
 }
