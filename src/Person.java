@@ -14,6 +14,7 @@ public class Person
     boolean high;
     int i;
     int feature1;
+    int feature2;
 
 
 
