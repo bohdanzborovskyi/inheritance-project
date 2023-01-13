@@ -14,6 +14,7 @@ public class Person
     boolean high;
     int i;
     int master1;
+    int master2;
 
 
     Person()
