@@ -11,6 +11,15 @@ public class Actor extends Person
     }
 
     int numberOfFilms;
+    int year;
+
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
 
     public int getNumberOfFilms() {
         return numberOfFilms;
