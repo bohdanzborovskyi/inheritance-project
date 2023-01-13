@@ -7,6 +7,8 @@ public class Person
     List<String> filmTitles;
     boolean player;
     boolean flyer;
+    boolean patriot;
+    String birthPlace;
 
 
     Person()
