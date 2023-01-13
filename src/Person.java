@@ -15,7 +15,7 @@ public class Person
     int i;
     int feature1;
     int feature2;
-
+    int master1;
 
 
     Person()
