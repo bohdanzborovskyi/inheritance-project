@@ -19,4 +19,8 @@ public class Actor extends Person
     public void setNumberOfFilms(int numberOfFilms) {
         this.numberOfFilms = numberOfFilms;
     }
+
+    public void printMe(){
+        System.out.println("Print ME");
+    }
 }
