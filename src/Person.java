@@ -10,6 +10,7 @@ public class Person
     String birthPlace;
     boolean flyer;
     boolean top;
+    String ddd;
 
 
     Person()
