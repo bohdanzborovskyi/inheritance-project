@@ -10,6 +10,7 @@ public class Person
     boolean patriot;
     String birthPlace;
     boolean high;
+    int i;
 
 
     Person()
