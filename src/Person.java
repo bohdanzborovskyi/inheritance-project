@@ -6,13 +6,14 @@ public class Person
     String name;
     List<String> filmTitles;
     boolean player;
-    boolean flyer;
     boolean patriot;
     String birthPlace;
-    boolean high;
-    int i;
+    boolean flyer;
     boolean top;
     String ddd;
+    boolean high;
+    int i;
+
 
 
     Person()
