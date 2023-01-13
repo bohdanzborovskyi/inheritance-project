@@ -12,6 +12,7 @@ public class Person
     boolean high;
     int i;
     boolean top;
+    String ddd;
 
 
     Person()
