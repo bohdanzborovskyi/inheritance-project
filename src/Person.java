@@ -29,4 +29,8 @@ public class Person
     public String getName() {
         return name;
     }
+
+    protected void justAMethod(){
+        System.out.println("Hello with new method!");
+    }
 }
