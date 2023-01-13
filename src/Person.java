@@ -5,6 +5,7 @@ public class Person
     int age;
     String name;
     List<String> filmTitles;
+    boolean player;
 
 
     Person()
