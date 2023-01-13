@@ -11,6 +11,7 @@ public class Person
     String birthPlace;
     boolean high;
     int i;
+    boolean top;
 
 
     Person()
