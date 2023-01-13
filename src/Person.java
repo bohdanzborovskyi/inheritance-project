@@ -1,8 +1,10 @@
+import java.util.List;
 
 public class Person
 {
     int age;
     String name;
+    List<String> filmTitles;
 
 
     Person()
