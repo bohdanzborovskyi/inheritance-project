@@ -9,5 +9,7 @@ public class Main
         Person person1 = new Actor();
         ArrayList<Person> actors = new ArrayList<>();
         actors.add(person1);
+        Actor actor2 = new Actor();
+        actors.add(actor2);
     }
 }
