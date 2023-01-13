@@ -9,6 +9,7 @@ public class Person
     boolean patriot;
     String birthPlace;
     boolean flyer;
+    boolean top;
 
 
     Person()
