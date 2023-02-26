@@ -5,4 +5,5 @@ public class Counter {
     int count_master_2;
     int count_master_3;
     int count_counter_1;
+    int count_counter_2;
 }
