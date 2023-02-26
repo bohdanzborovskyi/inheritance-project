@@ -7,6 +7,7 @@ public class Actor extends Person
     public void personmethod()
     {
         super.personmethod();
+        System.out.println("actor methid rebase");
         System.out.println("actor methid master");
     }
 
